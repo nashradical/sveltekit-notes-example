@@ -40,6 +40,7 @@
   }
 
   p {
+    word-break: break-all;
     padding: 0;
     margin: 5px 0;
   }
